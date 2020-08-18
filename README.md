@@ -4,3 +4,7 @@ Simple implementation of a slightly gamified reminder app intended to practice s
  - clean architecture
  - mvvm design pattern
  - state-based ui
+
+All Rights Reserved
+
+Copyright (c) 2020 Matthew Bogner
